@@ -1,0 +1,30 @@
+For - One type of loop that can repeat an action many times. A for loop has 3 main types of information: where to start, when to stop, and how to get to the next item. For loops are used more than any other type so they are very important!
+
+i.e. 
+for (start, stop, step) {
+   do something
+}
+
+=============================================
+&&, ||, ! - These are operators that can be used to create and/or test more powerful logical expressions. && (And) is used to combine 2 logical expressions. || (Or) is used to determine something about one OR a second expression. ! means NOT.   
+
+i.e. 
+a && b - returns true if both a and b are true
+a || b - returns true if either a or b is true
+!a - returns opposite of a (returns opposite value, for example if a is true, then false will be returned)
+
+=============================================
+Arrays - A data structure that holds more than one value. Think of an array as a list of items (elements) and they can be identified by an index (index always starts at 0] .
+
+i.e. 
+colors = [red, green, blue, purple];
+
+colors has 3 items
+colors[0] = red
+
+==============================================
+Git - A popular version control software to track changes in computer files and allow muliple users to coordinate their work.
+
+
+GitHub - The website that allows users to copy (fork), download (clone),  upload (commit), store, and share repositories (files). Files from Git are used with GitHub.
+
